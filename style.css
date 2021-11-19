@@ -1,0 +1,15 @@
+canvas {
+    border: black 5px ridge;
+    box-shadow: 1px 1px 110px red;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+  }
+
+  
